@@ -40,8 +40,7 @@ Here are some ideas to get you started:
   
   <img src="https://github-readme-stats.vercel.app/api?username=wanzaS2&show_icons=true&theme=tokyonight"/>
   <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanzaS2&theme=tokyonight)
-  <br>
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wanza123)](https://solved.ac/wanza123)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanzaS2&theme=tokyonight)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wanza123)](https://solved.ac/wanza123/)
 </div>
