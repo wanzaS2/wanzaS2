@@ -16,8 +16,8 @@ Here are some ideas to get you started:
   
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=☆moon_gang★&fontSize=40&fontColor=1E90FF&animation=fadeIn">
   
-  <h2>Welcome to my GitHub>.&lt;!!!</h2>
-  <p>😻🤩🤑💗🙀✌👊👩‍👯💻🐕🐈</p>
+  <h2>Welcome to my GitHub!!!</h2>
+  <p>😻🤩💗🙀✌👊💻🐕🐈</p>
   <br>
   
   <h2>📚 Tech Stack 📚</h2>
@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 </div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wanza123)](https://solved.ac/wanza123)
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanza123&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
