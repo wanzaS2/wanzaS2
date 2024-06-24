@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=☆moon_gang★&fontSize=40&fontColor=1E90FF&animation=fadeIn">
   
   <h2>Welcome to my GitHub!!!</h2>
-  Hi😄 I'm Junior Backend Developer.<br/>
+  Hi😄 I'm Backend Developer.<br/>
   I'm currently interested in Server and Cloud System.
   <p>😻🤩💗🙀✌👊💻🐕🐈</p>
   <br>
